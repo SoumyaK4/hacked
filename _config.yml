@@ -1,0 +1,19 @@
+title: Hacked Jekyll
+description: Jekyll microtheme that looks like JSON
+baseurl: 
+url: https://hacked.soumyak4.in
+
+theme: hacked-jekyll
+
+exclude:
+  - LICENSE
+  - README.md
+  - vendor/
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+sass:
+  sourcemap: never
+  
