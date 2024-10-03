@@ -1,0 +1,6 @@
+[submodule "links"]
+	path = links
+	url = https://github.com/SoumyaK4/link-manager.git
+[submodule "link-manager"]
+	path = link-manager
+	url = https://github.com/SoumyaK4/link-manager.git
