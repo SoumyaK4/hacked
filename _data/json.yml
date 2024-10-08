@@ -12,9 +12,10 @@
 - key: Baduk - Weiqi - Go Game
   value:  
     - Guide/Roadmap 
+    url: https://weiqi.soumyak4.in/
     - for Beginners 
     - and Intermediate Players
-  url: https://weiqi.soumyak4.in/
+  
 # - key: Address
 #   value:
 #     - University of Jekyll
