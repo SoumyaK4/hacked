@@ -10,11 +10,8 @@
   value: My Experiences
   url: https://soumyak4.in/Experiences
 - key: Baduk - Weiqi - Go Game
-  value:  
-    - Guide/Roadmap 
-    url: https://weiqi.soumyak4.in/
-    - for Beginners 
-    - and Intermediate Players
+  value: Guide / Roadmap 
+  url: https://weiqi.soumyak4.in/
   
 # - key: Address
 #   value:
