@@ -8,7 +8,10 @@
   typed: true
 - key: CV
   value: My Experiences
-  url: https://soumyak4.in/MA.html
+  url: https://soumyak4.in/Experiences
+- key: Baduk - Weiqi - Go Game
+  value:  Guide/Roadmap for Beginners and Intermediate Players
+  url: https://weiqi.soumyak4.in/
 # - key: Address
 #   value:
 #     - University of Jekyll
@@ -35,5 +38,3 @@
       url: https://youtube.com/@SoumyaK4
     - value: Twitch
       url: https://twitch.tv/SoumyaK4
-    - value: GitHub
-      url: https://github.com/SoumyaK4
